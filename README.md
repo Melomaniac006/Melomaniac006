@@ -97,7 +97,6 @@ An intelligent lighting solution using **IR + LDR sensors** that automatically l
 
 🔧 **Tech:** Arduino • IR Sensor • LDR • Embedded Systems
 
-🔗 [View Project](https://github.com/Melomaniac006)
 
 </td>
 </tr>
@@ -113,28 +112,15 @@ An intelligent lighting solution using **IR + LDR sensors** that automatically l
 
 **IoT Smart Irrigation System**
 
-A smart irrigation system using **ESP32, soil moisture, temperature & humidity sensors** to automate watering decisions and conserve water while improving crop productivity.
+A smart irrigation system using **ESP32, soil moisture, temperature & humidity sensors** to automate watering decisions and conserve water while improving crop productivity, and reduce the agricultural wastage.
 
 🔧 **Tech:** ESP32 • IoT • Soil Moisture Sensor • Blynk
-
-🔗 [View Project](https://github.com/Melomaniac006)
 
 </td>
 </tr>
 
 </table>
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Melomaniac006&show_icons=true&theme=radical&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Melomaniac006&theme=radical&hide_border=true"/>
-
-</p>
-
----
 
 # 📈 GitHub Activity Graph
 
