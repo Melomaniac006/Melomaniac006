@@ -22,22 +22,38 @@
 
 ---
 
-# 🌸 About Me
+<table>
+<tr>
+
+<td width="60%">
+
+## 🌸 About Me
 
 🎓 I'm **Sukanya Rana**, a **Computer Science & Engineering student** passionate about building intelligent systems that combine **software, AI, and hardware automation**.
 
 💡 I love turning real-world problems into **innovative technical solutions** through **Machine Learning, IoT, and Full Stack Development**.
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="coder-girl.png" width="300"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 🏆 Achievements
 
 🥇 **Winner — Idea Fusion 2025**
-IoT Model Presentation @ MCKV Institute of Engineering
+(IoT Model Presentation) @ MCKV Institute of Engineering
 
-🇮🇳 **Participant — Smart India Hackathon (SIH) 2025**
+ **Participant — Smart India Hackathon (SIH) 2025**
 
-🥉 **2nd Runner-Up — International Pi Day Competition**
+🥉 **2nd Runner-Up — International Pi Day Competition**  @ MCKV Institute of Engineering
 
 ---
 
