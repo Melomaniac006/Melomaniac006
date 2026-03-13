@@ -137,6 +137,29 @@ A smart irrigation system using **ESP32, soil moisture, temperature & humidity s
 
 </table>
 
+# 📊 Development Dashboard
+
+<table align="center">
+<tr>
+
+<td width="50%" align="center">
+
+### 💻 Coding Language Insights
+
+<img src="https://quickchart.io/chart?c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Blabels%3A%5B%27C%27%2C%27Python%27%2C%27HTML%27%2C%27CSS%27%2C%27JavaScript%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B20%2C20%2C20%2C20%2C20%5D%2CbackgroundColor%3A%5B%27%23f97316%27%2C%27%233b82f6%27%2C%27%23f59e0b%27%2C%27%23a855f7%27%2C%27%2322c55e%27%5D%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Blabels%3A%7Bcolor%3A%27white%27%7D%7D%7D%7D%7D" width="320"/>
+
+</td>
+
+<td width="50%" align="center">
+
+### 📊 GitHub Development Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Melomaniac006&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+</tr>
+</table>
 
 # 📈 GitHub Activity Graph
 
@@ -148,19 +171,22 @@ A smart irrigation system using **ESP32, soil moisture, temperature & humidity s
 
 ---
 
-# 🧠 Beyond the Code
+## 🧠 Beyond the Code
 
 <table>
 <tr>
 
 <td width="60%">
 
+### 🌟 Developer Mindset
+
 I build with **logic**, design with **purpose**, and learn through **experimentation**.
 
-> Code is the tool. **Thinking is the real skill.**
+> 💡 *Code is the tool. Thinking is the real skill.*
 
-🧩 Problem solver by habit.
-🚀 Curious builder by nature.
+🧩 Problem solver by habit
+🚀 Curious builder by nature
+🔍 Exploring **Machine Learning, IoT & Web Development**
 
 ### 🌐 Let's Connect
 
@@ -180,7 +206,11 @@ I build with **logic**, design with **purpose**, and learn through **experimenta
 
 <td width="40%" align="center">
 
-<img src="https://octodex.github.com/images/adventure-cat.png" width="200"/>
+<img src="coder girl pic 1.png" width="320"/>
+
+<br>
+
+✨ *Debugging life one line of code at a time.*
 
 </td>
 
@@ -193,17 +223,4 @@ I build with **logic**, design with **purpose**, and learn through **experimenta
 ✨ *Curiosity builds code. Code builds the future.*
 </p>
 
-<!--
-👀 If you're reading this comment, you explored the README code.
-
-That means you're curious — and curiosity is the first skill of every great engineer.
-
-Keep exploring.
-Keep building.
-— Sukanya 🚀
--->
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ffb6c1&height=90&section=footer"/>
-</p>
 
